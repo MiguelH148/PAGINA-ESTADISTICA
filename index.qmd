@@ -1,6 +1,6 @@
 ---
 title: "DISTRIBUCIONES DE FRECUENCIAS"
-subtitle: "TALLER"
+subtitle: "CONCEPTOS"
 author: 
   - name: Miguel Angel Hurtado Rubiano
     affiliation: "Universidad del Tolima"
